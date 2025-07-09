@@ -48,12 +48,6 @@ Built with Power BI, it offers actionable insights on ER operations and performa
 - Manage walk-in patient load
 
 
----
-
-## 📁 Project Structure
-
-```
-
 ## 📷 Dashboard Snapshot
 
 ![Dashboard](Images/Dashboard.png)
