@@ -71,6 +71,8 @@ Pull requests are welcome! If you have ideas to improve the dashboard or summary
 
 For questions, feedback, or collaborations:  
 **Mohamed Makrani**  
+makrani.mohamed@ump.ac.ma
+
 
 ---
 
